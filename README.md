@@ -2,9 +2,17 @@
   <img src="https://raw.githubusercontent.com/thatgolangguy/resources/52c93b8ba2d162bb66bd2f565fe9b34ec6a75edd/thatgolangguy:goswiss:logo.png" width="600" alt="goswiss logo"/>
 </p>
 
-# goswiss 🛠️
+# goswiss 🛠️ 
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/thatgolangguy/goswiss.svg)](https://pkg.go.dev/github.com/thatgolangguy/goswiss)
+[![Go Report Card](https://goreportcard.com/badge/github.com/thatgolangguy/goswiss)](https://goreportcard.com/report/github.com/thatgolangguy/goswiss)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
+
 
 #### ⚠️ WIP: Do not use/integrate right now.
+
 
 > The Swiss Army knife of Go. Utility functions that make Go dev smoother, safer, and snappier.
 
