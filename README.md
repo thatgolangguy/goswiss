@@ -20,9 +20,9 @@
 
 ## ✨ Features
 
-- 🔁 Retry logic with exponential backoff and customizable attempts
-- ✂️ Slice utilities – chunking, deduplication, shuffling, etc.
-- 📂 File readers for JSON, XML, CSV (and more to come)
+- 🔁 Retry logic with backoff and customizable attempts 
+- ✂️ Slice utilities: chunking, deduplication, etc. 
+- 📂 File readers for JSON, XML, CSV
 - 🧪 Panic-safe function wrappers
 - 🧹 Data cleaners & formatters (WIP)
 - 📦 Modular, idiomatic, zero-dependency tools
